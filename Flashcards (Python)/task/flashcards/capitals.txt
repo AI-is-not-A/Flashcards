@@ -1,0 +1,44 @@
+China:Beijing:2
+India:New Delhi:1
+United States:Washington DC:2
+Indonesia:Jakarta:0
+Pakistan:Islamabad:2
+Brazil:Brasília:2
+Nigeria:Abuja:3
+Bangladesh:Dhaka:4
+Russia:Moscow:0
+Mexico:Mexico City:0
+Japan:Tokyo:0
+Philippines:Manila:3
+Egypt:Cairo:2
+Ethiopia:Addis Ababa:6
+Vietnam:Hanoi:4
+DR Congo:Kinshasa:7
+Iran:Tehran:0
+Turkey:Ankara:0
+Germany:Berlin:0
+France:Paris:0
+United Kingdom:London:0
+Italy:Rome:0
+Tanzania:Dodoma:7
+South Africa:Cape Town:4
+Myanmar:Naypyidaw:5
+Kenya:Nairobi:2
+South Korea:Seoul:1
+Colombia:Bogotá:2
+Spain:Madrid:0
+Argentina:Buenos Aires:4
+Ukraine:Kyiv:0
+Algeria:Algiers:2
+Sudan:Khartoum:1
+Uganda:Kampala:2
+Iraq:Baghdad:1
+Poland:Warsaw:1
+Canada:Ottawa:1
+Morocco:Rabat:0
+Afghanistan:Kabul:1
+Saudi Arabia:Riyadh:2
+Peru:Lima:3
+Venezuela:Caracas:4
+Malaysia:Kuala Lumpur:5
+Uzbekistan:Tashkent:4
